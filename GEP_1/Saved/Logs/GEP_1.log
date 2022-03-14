@@ -829,3 +829,48 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.14-19.51.24:445][214]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
 [2022.03.14-19.51.24:447][214]PIE: Server logged in
 [2022.03.14-19.51.24:450][214]PIE: Play in editor total start time 0.117 seconds.
+[2022.03.14-20.17.33:996][830]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-310.834 Y=-124.214 Z=155.740] for [FirstPersonProjectile_C]
+[2022.03.14-20.17.41:991][788]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1536.124 Y=-707.326 Z=166.504] for [FirstPersonProjectile_C]
+[2022.03.14-20.17.45:762][240]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2038.824 Y=-905.510 Z=211.059] for [FirstPersonProjectile_C]
+[2022.03.14-20.17.46:147][286]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2104.636 Y=-873.335 Z=213.552] for [FirstPersonProjectile_C]
+[2022.03.14-20.20.43:695][511]LogSlate: Took 0.004516 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.14-20.21.06:039][154]Candidate modules for hot reload:
+[2022.03.14-20.21.06:039][154]  GEP_1
+[2022.03.14-20.21.06:039][154]Launching UnrealBuildTool... [C:/Epic/UE4/UE_4.26.2/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=GEP_1,4118 GEP_1Editor Win64 Development -Project="C:/Users/n012782k/Documents/GitHub/Game_Engine_Programming_UnReal4/GEP_1/GEP_1.uproject" "C:/Users/n012782k/Documents/GitHub/Game_Engine_Programming_UnReal4/GEP_1/GEP_1.uproject"  -IgnoreJunk]
+[2022.03.14-20.21.24:435][154]CompilerResultsLog: New page: Compilation - 14 Mar 2022, 20:21:24
+[2022.03.14-20.21.24:436][154]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\n012782k\Documents\GitHub\Game_Engine_Programming_UnReal4).
+[2022.03.14-20.21.24:436][154]CompilerResultsLog: Creating makefile for GEP_1Editor (.uproject file is newer)
+[2022.03.14-20.21.24:436][154]CompilerResultsLog: Parsing headers for GEP_1Editor
+[2022.03.14-20.21.24:436][154]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\n012782k\Documents\GitHub\Game_Engine_Programming_UnReal4\GEP_1\GEP_1.uproject" "C:\Users\n012782k\Documents\GitHub\Game_Engine_Programming_UnReal4\GEP_1\Intermediate\Build\Win64\GEP_1Editor\Development\GEP_1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\n012782k\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.03.14-20.21.24:436][154]CompilerResultsLog: Reflection code generated for GEP_1Editor in 8.5648027 seconds
+[2022.03.14-20.21.24:436][154]CompilerResultsLog: Building GEP_1Editor...
+[2022.03.14-20.21.24:436][154]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.14-20.21.24:436][154]CompilerResultsLog: Building 15 actions with 16 processes...
+[2022.03.14-20.21.24:436][154]CompilerResultsLog:   [1/15] GEP_1.cpp
+[2022.03.14-20.21.24:436][154]CompilerResultsLog:   [2/15] GEP_1.init.gen.cpp
+[2022.03.14-20.21.24:436][154]CompilerResultsLog:   [3/15] GEP_1HUD.cpp
+[2022.03.14-20.21.24:436][154]CompilerResultsLog:   [4/15] GEP_1Projectile.cpp
+[2022.03.14-20.21.24:436][154]CompilerResultsLog:   [5/15] MyActorHealthComponent.cpp
+[2022.03.14-20.21.24:436][154]CompilerResultsLog:   [6/15] GEP_1GameMode.cpp
+[2022.03.14-20.21.24:436][154]CompilerResultsLog:   [7/15] GEP_1HUD.gen.cpp
+[2022.03.14-20.21.24:436][154]CompilerResultsLog:   [8/15] GEP_1Projectile.gen.cpp
+[2022.03.14-20.21.24:436][154]CompilerResultsLog:   [9/15] GEP_1GameMode.gen.cpp
+[2022.03.14-20.21.24:436][154]CompilerResultsLog:   [10/15] GEP_1Character.gen.cpp
+[2022.03.14-20.21.24:436][154]CompilerResultsLog:   [11/15] MyActorHealthComponent.gen.cpp
+[2022.03.14-20.21.24:436][154]CompilerResultsLog:   [12/15] GEP_1Character.cpp
+[2022.03.14-20.21.24:436][154]CompilerResultsLog:   [13/15] UE4Editor-GEP_1-4118.lib
+[2022.03.14-20.21.24:436][154]CompilerResultsLog:      Creating library C:\Users\n012782k\Documents\GitHub\Game_Engine_Programming_UnReal4\GEP_1\Intermediate\Build\Win64\UE4Editor\Development\GEP_1\UE4Editor-GEP_1-4118.lib and object C:\Users\n012782k\Documents\GitHub\Game_Engine_Programming_UnReal4\GEP_1\Intermediate\Build\Win64\UE4Editor\Development\GEP_1\UE4Editor-GEP_1-4118.exp
+[2022.03.14-20.21.24:436][154]CompilerResultsLog:   [14/15] UE4Editor-GEP_1-4118.dll
+[2022.03.14-20.21.24:436][154]CompilerResultsLog:      Creating library C:\Users\n012782k\Documents\GitHub\Game_Engine_Programming_UnReal4\GEP_1\Intermediate\Build\Win64\UE4Editor\Development\GEP_1\UE4Editor-GEP_1-4118.suppressed.lib and object C:\Users\n012782k\Documents\GitHub\Game_Engine_Programming_UnReal4\GEP_1\Intermediate\Build\Win64\UE4Editor\Development\GEP_1\UE4Editor-GEP_1-4118.suppressed.exp
+[2022.03.14-20.21.24:436][154]CompilerResultsLog:   [15/15] GEP_1Editor.target
+[2022.03.14-20.21.24:436][154]CompilerResultsLog: Total time in Parallel executor: 6.88 seconds
+[2022.03.14-20.21.24:436][154]CompilerResultsLog: Total execution time: 18.27 seconds
+[2022.03.14-20.21.24:436][154]LogMainFrame: MainFrame: Module compiling took 18.418 seconds
+[2022.03.14-20.21.24:464][154]LogClass: Could not find existing class MyActorHealthComponent in package /Script/GEP_1 for HotReload, assuming new class
+[2022.03.14-20.21.24:470][154]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'GEP_1' in 0.0003 seconds. Added 5 classes and 3 folders.
+[2022.03.14-20.21.24:472][154]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2022.03.14-20.21.24:506][154]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0078 seconds. Added 3585 classes and 844 folders.
+[2022.03.14-20.21.24:507][154]Display: HotReload took 18.5s.
+[2022.03.14-20.21.24:507][154]Warning: HotReload operation took 18.5s.
+[2022.03.14-20.21.24:520][154]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.03.14-20.21.24:656][155]LogHotReload: New module detected: UE4Editor-GEP_1-4118.dll

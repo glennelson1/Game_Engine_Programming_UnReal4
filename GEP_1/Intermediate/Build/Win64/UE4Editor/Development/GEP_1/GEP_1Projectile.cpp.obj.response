@@ -31,16 +31,15 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\n012782k\Documents\GitHub\Game_Engine_Programming_UnReal4\GEP_1\Intermediate\Build\Win64\UE4Editor\Inc\GEP_1
-/I C:\Users\n012782k\Documents\GitHub\Game_Engine_Programming_UnReal4\GEP_1\Source
+/I C:\Users\n012782k\Documents\GitHub\Game_Engine_Programming_UnReal4\GEP_1\Source\GEP_1\Private
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime
+/I Runtime\Engine\Classes
+/I Runtime\Engine\Public
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
-/I Runtime\Engine\Classes
-/I Runtime\Engine\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\NetCore
 /I Runtime\Net
 /I Runtime\Net\Core\Classes
@@ -232,6 +231,9 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
+/I C:\Users\n012782k\Documents\GitHub\Game_Engine_Programming_UnReal4\GEP_1\Intermediate\Build\Win64\UE4Editor\Inc\GEP_1
+/I C:\Users\n012782k\Documents\GitHub\Game_Engine_Programming_UnReal4\GEP_1\Source
+/I C:\Users\n012782k\Documents\GitHub\Game_Engine_Programming_UnReal4\GEP_1\Source\GEP_1\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MRMesh
