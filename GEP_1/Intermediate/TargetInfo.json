@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GEP_1",
+			"Path": "C:\\Users\\n012782k\\Documents\\GitHub\\Game_Engine_Programming_UnReal4\\GEP_1\\Source\\GEP_1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GEP_1Editor",
+			"Path": "C:\\Users\\n012782k\\Documents\\GitHub\\Game_Engine_Programming_UnReal4\\GEP_1\\Source\\GEP_1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
