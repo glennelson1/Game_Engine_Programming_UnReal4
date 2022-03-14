@@ -43,10 +43,5 @@ protected:
 	float m_SheildRevoverDelay;
 
 	UFUNCTION()
-	void DamgeTaken(AActor* damagedAcator, float damage, const UDamageType* damageType, AController* instigator, AActor* causer);
-	
-
-public:	
-	// Called every frame
-	
+	void DamgeTaken(AActor* damagedAcator, float damage, const UDamageType* damageType, AController* m_instigator, AActor* causer);
 };
